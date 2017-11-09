@@ -10,101 +10,89 @@ My name is Chase and I first started this exercise when I was a freshman in coll
 2. ### Graduate College **Completed: 2009**  
     [University of Colorado at Boulder, Marketing](../master/Proof/college.jpg)
 3. ### Get Married **Completed: May 26th 2012**
-    [Grant Humphreys's Mansion Denver, CO][]
+    [Grant Humphreys's Mansion Denver, CO](../master/Proof/kady.jpg)
 4. ### Drive a Porsche **Completed: 2008**
-    [Carrera 4]()
+    [Carrera 4](../master/Proof/carrerra.jpg)
 5. ### Certified Beer Judge **Completed: 2012**
-    [BJCP Certified]()
+    [BJCP Certified](../master/Proof/bjcp.jpg)
 6. ### Oktoberfest In Germany **Completed: 2014**
     [Oktoberfest](../master/Proof/oktoberfest.jpg)
 7. ### Eat: Octopus, Eel, Aligator and Whale **Completed: 2014**
     [Ate them](../master/Proof/whale.jpg)
 
 8. ### Walk in  the Redwood Forest **Completed: 2005**
+    [California](../master/Proof/redwoods.jpg)
 
 9. ### Brew with a Master Brewer **Completed: 2011**
-    [Strange Brewing Inc.]()
+    [Strange Brewing Inc.](../master/Proof/Strange-TimBeer.jpg)
+
 10. ### Live in another country **Completed: 2008**   
-    [Perugia, Italy](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/abigale.jpg)
+    [Perugia, Italy](../master/Proof/abigale.jpg)
 
 11. ### Visit Sophia in Istanbul **Completed: 2008**
-    [Done](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/perugia.jpg)
+    [Sophia](../master/Proof/perugia.jpg)
 
 12. ### Own a home **Completed: 2014**
-    [1441 Central St. Denver, CO](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/home.jpg)
+    [1441 Central St. Denver, CO](../master/Proof/home.jpg)
 
 13. ### Ride in a helicopter **Completed: 2005**
-[Hawaii](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/helicopter.jpg)
+    [In Hawaii](../master/Proof/helicopter.jpg)
 
 14. ### Meditate for 60 Hours
 
-15. Learn to shoot a gun" tab_id="1440114265621-45036595-588d" add_icon="true"][vc_single_image image="146" img_size="medium" img_link_large="yes"]
+15. ### Learn to shoot a gun **Completed: 2009**
+    [Black Water Training 9mm](../master/Proof/gun.jpg)
 
-Completed: 2009
+16. ### Vote in a presidential campaign **Completed: 2008**
+    [President Barack Obama](../master/Proof/obama.jpg)
 
-"Vote in a presidential campaign" tab_id="1440114322485-a9dae59f-4501" add_icon="true"][vc_single_image image="147" img_size="medium" img_link_large="yes"]
+17. ### Take a yoga class **Completed: 2013**
+    [Brewvasinya](../master/Proof/yoga.jpg)
 
-Completed: 2008 President Barack Obama
+18. ### Get a tatoo **Completed: 2008 and 2014**
+    [Both from Munich Germany]
 
-"Take a yoga class" tab_id="1440114407272-0b8b3a1f-3834" add_icon="true"][vc_single_image image="148" img_size="medium" img_link_large="yes"]
+19. ### Get a piercing **Completed: 2009**
+    [Boulder, CO](../master/Proof/ear.jpg)
 
-Completed: 2013
+20. ### Go inside the NYSE **Completed: 2013**
+    [With Rally Software](../master/Proof/nyse.jpg)
 
-"Get a tatoo" tab_id="1440114468432-f4fdf60e-d2e0" add_icon="true"][vc_single_image image="148" img_size="medium" img_link_large="yes"]
+21. ### See the Grand Canyon **Completed: 2006**
+    [Arizona](../master/Proof/Canyon.jpg)
 
-Completed: 2008 and 2014 both from Munich Germany
+22. ### Have a dog **Completed: 2010**
+    [Gavin](../master/Proof/gavin.jpg)
 
-"Get a piercing" tab_id="1440114668922-06cef21f-a18a" add_icon="true"][vc_single_image image="150" img_size="medium" img_link_large="yes"]
+23. ### Walk in Times Square NYC **Completed: 2005**
+    [Ended up being many times]()
 
-Completed: 2009 Boulder, CO
+24. ### Stay up all night to watch the sunrise  **Completed: 2008**
+    [Finals Junior Year at CU]()
 
-"Go inside the NYSE" tab_id="1440114796642-89aba680-5546" add_icon="true"][vc_single_image image="151" img_size="medium" img_link_large="yes"]
+25. ### Complete a 360 Snowboarding  **Completed: 2008**
+    [Copper Mountain](../master/Proof/360.jpg)
 
-Completed: 2013
+26. ### Complete a Half Marathon **Completed: 2015**
+    [Colfax 1/2 Marathon Denver](../master/Proof/Colfax-half.jpeg)
 
-"See the Grand Canyon" tab_id="1440114856406-2bd0fbad-04d7" add_icon="true"][vc_single_image image="152" img_size="medium" img_link_large="yes"]
+27. ### Learn and produce good photography (enough to sell) **Completed: 2015**
+    [For the Denver Voice Newspaper](../master/Proof/photog.jpg)
 
-Completed: 2006
-
-"Have a dog" tab_id="1440114924101-f94b86b3-5f66" add_icon="true"][vc_single_image image="153" img_size="medium" img_link_large="yes"]
-
-Completed: 2010
-
-"Visit Times Square NYC" tab_id="1440115056627-cb6cb75e-6656" add_icon="true"][vc_single_image image="155" img_size="medium" img_link_large="yes"]
-
-Completed: 2005
-
-"Stay up all night to watch the sunrise" tab_id="1440115189616-ac46addf-fcba" add_icon="true"][vc_single_image image="156" img_size="medium" img_link_large="yes"]
-
-Completed: 2008
-
-"Complete a 360 Snowboarding" tab_id="1440115286848-9a0a1107-8ed3" add_icon="true"][vc_single_image image="157" img_size="medium" img_link_large="yes"]
-
-Completed: 2008
-
-Complete a Half Marathon Completed: 2015
-![](http://chasedoelling.com/wp-content/uploads/2015/08/Colfax-half.jpeg)
-
-
-"Learn and produce good photography (enough to sell)" tab_id="1440115640546-122e5efa-ad1d" add_icon="true"][vc_single_image image="159" img_size="medium" img_link_large="yes"]
-
-Completed: 2015
-
-"Start a Business" tab_id="1440115960314-2ca4d236-3758" add_icon="true"][vc_single_image image="85" img_size="medium" img_link_large="yes"]
-
-Completed: 2013 S Corporation of Craft Boom Corp.  Shut down 2015.
+28. ### Start a Business **Completed: 2013**
+    [S Corporation of Craft Boom Corp.  Shut down 2015.](../master/Proof/craftboom.jpg)
 
 "Get an MBA" tab_id="1440115960314-2ca4d236-3758" add_icon="true"][vc_single_image image="85" img_size="medium" img_link_large="yes"]
 
 Completed: 2017 Summer Class - Emphasis in Business Strategy
 
-Read a 1000 books" tab_id="1440161546836-a3f9e0eb-3b1f"]
+Read a 1000 books
 
-    Zen and the Art of Motorcycle Maintenance by Robert Pirsig
-    Blue Ocean Strategy by Chan Kim
-    The Pumpkin Plan by Mike Michalowicz
-    The Will Power Instinct by Kelly McGonigal
-    The First 20 Hours by Josh Kaufman
+    1. Zen and the Art of Motorcycle Maintenance by Robert Pirsig
+    2. Blue Ocean Strategy by Chan Kim
+    3. The Pumpkin Plan by Mike Michalowicz
+    4. The Will Power Instinct by Kelly McGonigal
+    5. The First 20 Hours by Josh Kaufman
     The Art of the Start by Guy Kawasaki
     Getting Things Done by David Allen
     Contagious by Jonah Berger
