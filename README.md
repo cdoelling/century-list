@@ -1,42 +1,32 @@
-#Century List
-####If you had a century to live, what 100 things can you accomplish
+# Century List
+#### If you had a century to live, what 100 things can you accomplish
 
 > Hi,
 My name is Chase and I first started this exercise when I was a freshman in college.  These items shift with priority over the years.  Once an item is completed it stays on the list, so you can only alternate what is left.  Here is my **Century List**.
 
 
 1. ### Father a child **Completed: 2013**
-Abigale Doelling Born 11/4/2015
-![Abigale](http://chasedoelling.com/wp-content/uploads/2015/08/abigale.jpg)
+ Abigale Doelling Born 11/4/2015
+ ![Abigale](http://chasedoelling.com/wp-content/uploads/2015/08/abigale.jpg)
 
 
-2. ###Graduate College tab_id="1440111784399-09bf72cc-b6e3" add_icon="true"][vc_single_image image="112" img_size="medium" style="vc_box_rounded" img_link_large="yes"]
+2. ### Graduate College **Completed: 2009**
+ University of Colorado at Boulder
+ ![CU]()
 
-Completed: 2009
+3. ### Get Married **Completed: May 26th 2012**
+ Grant Humphreys's Mansion Denver, CO
+ ![Marriage]()
 
-"Get Married" tab_id="1440112375377-844c0f1c-e050" add_icon="true"][vc_single_image image="115" img_size="medium" style="vc_box_rounded" img_link_large="yes"]
+4. ### Drive a Porsche **Completed: 2008**
 
-Completed: May 26th 2012
+5. ### Certified Beer Judge **Completed: 2012**
 
-"Drive a Porsche" tab_id="1440111784612-43781265-9748" add_icon="true"][vc_single_image image="130" img_size="medium" img_link_large="yes"]
+6. ### Oktoberfest In Germany **Completed: 2014**
 
-Completed: 2008
+7. ### Eat: Octopus, Eel, Aligator and Whale **Completed: 2014**
 
-"Certified Beer Judge" tab_id="1440113058243-4d547c4d-5170" add_icon="true"][vc_single_image image="120" img_size="medium" img_link_large="yes"]
-
-Completed: 2012
-
-"Oktoberfest In Germany" tab_id="1440113117631-3bdb7518-7632" add_icon="true"][vc_single_image image="134" img_size="medium" img_link_large="yes"]
-
-Completed: 2014
-
-"Eat: Octopus, Eel, Aligator and Whale" tab_id="1440113215814-969ff63f-4496" add_icon="true"][vc_single_image image="135" img_size="medium" img_link_large="yes"]
-
-Completed: 2014
-
-"Visit the Redwood Forest" tab_id="1440113312116-93947e6c-8192" add_icon="true"][vc_single_image image="136" img_size="medium" img_link_large="yes"]
-
-Completed: 2005
+8. Walk in  the Redwood Forest **Completed: 2005**
 
 "Brew with a Master Brewer" tab_id="1440113404231-50dcf33b-c898" add_icon="true"][vc_single_image image="123" img_size="medium" img_link_large="yes"]
 
@@ -103,9 +93,9 @@ Completed: 2008
 
 Completed: 2008
 
-"Complete a Half Marathon" tab_id="1440115415207-9e9c0c2a-0bd4" add_icon="true"][vc_single_image image="158" img_size="medium" img_link_large="yes"]
+Complete a Half Marathon Completed: 2015
+![](http://chasedoelling.com/wp-content/uploads/2015/08/Colfax-half.jpeg)
 
-Completed: 2015
 
 "Learn and produce good photography (enough to sell)" tab_id="1440115640546-122e5efa-ad1d" add_icon="true"][vc_single_image image="159" img_size="medium" img_link_large="yes"]
 
