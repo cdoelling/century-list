@@ -6,9 +6,9 @@ My name is Chase and I first started this exercise when I was a freshman in coll
 
 
 1. ### Father a child **Completed: 2013**
-    [Abigale Doelling](../Proof/abigale.jpg) Born 11/4/2015
+    [Abigale Doelling](../master/Proof/abigale.jpg) Born 11/4/2015
 2. ### Graduate College **Completed: 2009**  
-    [University of Colorado at Boulder, Marketing](../Proof/college.jpg)
+    [University of Colorado at Boulder, Marketing](../master/Proof/college.jpg)
 3. ### Get Married **Completed: May 26th 2012**
     [Grant Humphreys's Mansion Denver, CO][]
 4. ### Drive a Porsche **Completed: 2008**
@@ -16,21 +16,22 @@ My name is Chase and I first started this exercise when I was a freshman in coll
 5. ### Certified Beer Judge **Completed: 2012**
     [BJCP Certified]()
 6. ### Oktoberfest In Germany **Completed: 2014**
-    [Oktoberfest](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/oktoberfest.jpg)
+    [Oktoberfest](../master/Proof/oktoberfest.jpg)
 7. ### Eat: Octopus, Eel, Aligator and Whale **Completed: 2014**
-    [Ate them](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/whale.jpg)
+    [Ate them](../master/Proof/whale.jpg)
 
 8. ### Walk in  the Redwood Forest **Completed: 2005**
 
 9. ### Brew with a Master Brewer **Completed: 2011**
-
+    [Strange Brewing Inc.]()
 10. ### Live in another country **Completed: 2008**   
-[Perugia, Italy](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/abigale.jpg)
+    [Perugia, Italy](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/abigale.jpg)
 
 11. ### Visit Sophia in Istanbul **Completed: 2008**
-[Perugia, Italy](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/perugia.jpg)
+    [Done](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/perugia.jpg)
 
-12. ### Own a home **Completed: 2014** [1441 Central St. Denver, CO](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/home.jpg)
+12. ### Own a home **Completed: 2014**
+    [1441 Central St. Denver, CO](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/home.jpg)
 
 13. ### Ride in a helicopter **Completed: 2005**
 [Hawaii](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/helicopter.jpg)
