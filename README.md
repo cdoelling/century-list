@@ -6,20 +6,20 @@ My name is Chase and I first started this exercise when I was a freshman in coll
 
 
 1. ### Father a child **Completed: 2013**
-   ![Abigale Doelling][Abigale] Born 11/4/2015
+   [Abigale Doelling](https://github.com/cdoelling/century-list/blob/master/Proof/abiagle.jpg) Born 11/4/2015
 
 2. ### Graduate College **Completed: 2009**  
-   ![University of Colorado at Boulder, Marketing][CU]
+   [University of Colorado at Boulder, Marketing][https://github.com/cdoelling/century-list/blob/master/Proof/college.jpg]
 
 3. ### Get Married **Completed: May 26th 2012**
-   ![Grant Humphreys's Mansion Denver, CO][Marriage]
+   [Grant Humphreys's Mansion Denver, CO][Marriage]
 
 4. ### Drive a Porsche **Completed: 2008**
 
 5. ### Certified Beer Judge **Completed: 2012**
 
 6. ### Oktoberfest In Germany **Completed: 2014**
-   ![Oktoberfest][Oktoberfest]
+   [Oktoberfest][Oktoberfest]
 
 7. ### Eat: Octopus, Eel, Aligator and Whale **Completed: 2014**
 
