@@ -5,22 +5,20 @@
 My name is Chase and I first started this exercise when I was a freshman in college.  These items shift with priority over the years.  Once an item is completed it stays on the list, so you can only alternate what is left.  Here is my **Century List**.
 
 
-1. ### Father a child **Completed: 2013**[Abigale Doelling](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/abigale.jpg) Born 11/4/2015
+1. ### Father a child **Completed: 2013**
+    [Abigale Doelling](../Proof/abigale.jpg) Born 11/4/2015
 2. ### Graduate College **Completed: 2009**  
-   [University of Colorado at Boulder, Marketing](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/college.jpg)
-
-   ### Get Married **Completed: May 26th 2012**
-   [Grant Humphreys's Mansion Denver, CO][]
-
-   ### Drive a Porsche **Completed: 2008**
-
+    [University of Colorado at Boulder, Marketing](../Proof/college.jpg)
+3. ### Get Married **Completed: May 26th 2012**
+    [Grant Humphreys's Mansion Denver, CO][]
+4. ### Drive a Porsche **Completed: 2008**
+    [Carrera 4]()
 5. ### Certified Beer Judge **Completed: 2012**
-
+    [BJCP Certified]()
 6. ### Oktoberfest In Germany **Completed: 2014**
-   [Oktoberfest](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/oktoberfest.jpg)
-
+    [Oktoberfest](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/oktoberfest.jpg)
 7. ### Eat: Octopus, Eel, Aligator and Whale **Completed: 2014**
-  [Ate them](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/whale.jpg)
+    [Ate them](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/whale.jpg)
 
 8. ### Walk in  the Redwood Forest **Completed: 2005**
 
