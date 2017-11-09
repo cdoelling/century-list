@@ -5,18 +5,28 @@
 My name is Chase and I first started this exercise when I was a freshman in college.  These items shift with priority over the years.  Once an item is completed it stays on the list, so you can only alternate what is left.  Here is my **Century List**.
 
 
-1. ### Father a child **Completed: 2013**
+
+
+
+
+1. ### **Completed: 2013** | Father a child
     [Abigale Doelling](../master/Proof/abigale.jpg) Born 11/4/2015
-2. ### Graduate College **Completed: 2009**  
+
+2. ### **Completed: 2009** | Graduate College
     [University of Colorado at Boulder, Marketing](../master/Proof/college.jpg)
-3. ### Get Married **Completed: May 26th 2012**
+
+3. ### **Completed: May 26th 2012** | Get Married
     [Grant Humphreys's Mansion Denver, CO](../master/Proof/kady.jpg)
-4. ### Drive a Porsche **Completed: 2008**
+
+4. ### **Completed: 2008** | Drive a Porsche
     [Carrera 4](../master/Proof/carrerra.jpg)
-5. ### Certified Beer Judge **Completed: 2012**
+
+5. ### **Completed: 2012** | Certified Beer Judge
     [BJCP Certified](../master/Proof/bjcp.jpg)
-6. ### Oktoberfest In Germany **Completed: 2014**
+
+6. ### **Completed: 2014** | Oktoberfest In Germany
     [Oktoberfest](../master/Proof/oktoberfest.jpg)
+
 7. ### Eat: Octopus, Eel, Aligator and Whale **Completed: 2014**
     [Ate them](../master/Proof/whale.jpg)
 
@@ -82,9 +92,8 @@ My name is Chase and I first started this exercise when I was a freshman in coll
 28. ### Start a Business **Completed: 2013**
     [S Corporation of Craft Boom Corp.  Shut down 2015.](../master/Proof/craftboom.jpg)
 
-"Get an MBA" tab_id="1440115960314-2ca4d236-3758" add_icon="true"][vc_single_image image="85" img_size="medium" img_link_large="yes"]
-
-Completed: 2017 Summer Class - Emphasis in Business Strategy
+29. ### Get an MBA **Completed: 2017**
+    [Summer - Emphasis in Business Strategy]()
 
 Read a 1000 books [160/1000](../master/books.md)
 
@@ -211,10 +220,3 @@ Fast for a day" tab_id="1440161515143-f96400da-2966"]
 Circumnavigate the globe" tab_id="1440161529389-aa56df5c-96d4"]
 Donate enough for Platinum Level Movember" tab_id="1445967869319-c86f3faa-e5e9"]
 [/vc_tta_accordion][/vc_column][/vc_row]
-
-PROOF
-
-[abigale]: https://github.com/cdoelling/century-list/blob/master/Proof/abigale.jpg
-[CU]:  https://github.com/cdoelling/century-list/blob/master/Proof/college.jpg
-[Oktoberfest]: https://github.com/cdoelling/century-list/blob/master/Proof/oktoberfest.jpg
-[Perugia, Italy]: https://github.com/cdoelling/century-list/blob/master/Proof/perugia.jpg
