@@ -6,23 +6,20 @@ My name is Chase and I first started this exercise when I was a freshman in coll
 
 
 1. ### Father a child **Completed: 2013**
- Abigale Doelling Born 11/4/2015
- ![Abigale][Abigale]
+   ![Abigale Doelling][Abigale] Born 11/4/2015
 
-
-2. ### Graduate College **Completed: 2009**
- University of Colorado at Boulder
- ![CU]()
+2. ### Graduate College **Completed: 2009**  
+   ![University of Colorado at Boulder, Marketing][CU]
 
 3. ### Get Married **Completed: May 26th 2012**
- Grant Humphreys's Mansion Denver, CO
- ![Marriage]()
+   ![Grant Humphreys's Mansion Denver, CO][Marriage]
 
 4. ### Drive a Porsche **Completed: 2008**
 
 5. ### Certified Beer Judge **Completed: 2012**
 
 6. ### Oktoberfest In Germany **Completed: 2014**
+   ![Oktoberfest][Oktoberfest]
 
 7. ### Eat: Octopus, Eel, Aligator and Whale **Completed: 2014**
 
@@ -31,10 +28,9 @@ My name is Chase and I first started this exercise when I was a freshman in coll
 9. ### Brew with a Master Brewer **Completed: 2011**
 
 10. ### Live in another country **Completed: 2008**   
-Perugia, Italy
-![][]
+![Perugia, Italy][Perugia, Italy]
 
-"Visit Sophia in Istanbul" tab_id="1440113845075-183c11bd-c2cf" add_icon="true"][vc_single_image image="141" img_size="medium" img_link_large="yes"]
+Visit Sophia in Istanbul" tab_id="1440113845075-183c11bd-c2cf" add_icon="true"][vc_single_image image="141" img_size="medium" img_link_large="yes"]
 
 Completed: 2008 Perugia, Italy
 
@@ -396,4 +392,7 @@ Donate enough for Platinum Level Movember" tab_id="1445967869319-c86f3faa-e5e9"]
 
 PROOF
 
-[Abigale] : (https://github.com/cdoelling/century-list/blob/master/Proof/abigale.jpg)
+[abigale]: https://github.com/cdoelling/century-list/blob/master/Proof/abigale.jpg
+[CU]:  https://github.com/cdoelling/century-list/blob/master/Proof/college.jpg
+[Oktoberfest]: https://github.com/cdoelling/century-list/blob/master/Proof/oktoberfest.jpg
+[Perugia, Italy]: https://github.com/cdoelling/century-list/blob/master/Proof/perugia.jpg
