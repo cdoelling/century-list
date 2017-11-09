@@ -86,7 +86,7 @@ My name is Chase and I first started this exercise when I was a freshman in coll
 
 Completed: 2017 Summer Class - Emphasis in Business Strategy
 
-Read a 1000 books [160/1000](../master/Proof/books.md)
+Read a 1000 books [160/1000](../master/books.md)
 
 
 Climb a Colorado 14ner" tab_id="1440115340075-ea3e87e2-c689"]
