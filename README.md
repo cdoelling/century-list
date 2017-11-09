@@ -7,7 +7,7 @@ My name is Chase and I first started this exercise when I was a freshman in coll
 
 1. ### Father a child **Completed: 2013**
  Abigale Doelling Born 11/4/2015
- ![Abigale](http://chasedoelling.com/wp-content/uploads/2015/08/abigale.jpg)
+ ![Abigale][Abigale]
 
 
 2. ### Graduate College **Completed: 2009**
@@ -26,15 +26,13 @@ My name is Chase and I first started this exercise when I was a freshman in coll
 
 7. ### Eat: Octopus, Eel, Aligator and Whale **Completed: 2014**
 
-8. Walk in  the Redwood Forest **Completed: 2005**
+8. ### Walk in  the Redwood Forest **Completed: 2005**
 
-"Brew with a Master Brewer" tab_id="1440113404231-50dcf33b-c898" add_icon="true"][vc_single_image image="123" img_size="medium" img_link_large="yes"]
+9. ### Brew with a Master Brewer **Completed: 2011**
 
-Completed: 2011
-
-"Live in another country" tab_id="1440113694881-4c74036b-199c" add_icon="true"][vc_single_image image="139" img_size="medium" img_link_large="yes"]
-
-Completed: 2008 Perugia, Italy
+10. ### Live in another country **Completed: 2008**   
+Perugia, Italy
+![][]
 
 "Visit Sophia in Istanbul" tab_id="1440113845075-183c11bd-c2cf" add_icon="true"][vc_single_image image="141" img_size="medium" img_link_large="yes"]
 
@@ -395,3 +393,7 @@ Fast for a day" tab_id="1440161515143-f96400da-2966"]
 Circumnavigate the globe" tab_id="1440161529389-aa56df5c-96d4"]
 Donate enough for Platinum Level Movember" tab_id="1445967869319-c86f3faa-e5e9"]
 [/vc_tta_accordion][/vc_column][/vc_row]
+
+PROOF
+
+[Abigale] : (https://github.com/cdoelling/century-list/blob/master/Proof/abigale.jpg)
