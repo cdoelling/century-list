@@ -5,45 +5,41 @@
 My name is Chase and I first started this exercise when I was a freshman in college.  These items shift with priority over the years.  Once an item is completed it stays on the list, so you can only alternate what is left.  Here is my **Century List**.
 
 
-1. ### Father a child **Completed: 2013**
-   [Abigale Doelling](https://github.com/cdoelling/century-list/blob/master/Proof/abiagle.jpg) Born 11/4/2015
-
+1. ### Father a child **Completed: 2013**[Abigale Doelling](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/abigale.jpg) Born 11/4/2015
 2. ### Graduate College **Completed: 2009**  
-   [University of Colorado at Boulder, Marketing][https://github.com/cdoelling/century-list/blob/master/Proof/college.jpg]
+   [University of Colorado at Boulder, Marketing](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/college.jpg)
 
-3. ### Get Married **Completed: May 26th 2012**
-   [Grant Humphreys's Mansion Denver, CO][Marriage]
+   ### Get Married **Completed: May 26th 2012**
+   [Grant Humphreys's Mansion Denver, CO][]
 
-4. ### Drive a Porsche **Completed: 2008**
+   ### Drive a Porsche **Completed: 2008**
 
 5. ### Certified Beer Judge **Completed: 2012**
 
 6. ### Oktoberfest In Germany **Completed: 2014**
-   [Oktoberfest][Oktoberfest]
+   [Oktoberfest](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/oktoberfest.jpg)
 
 7. ### Eat: Octopus, Eel, Aligator and Whale **Completed: 2014**
+  [Ate them](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/whale.jpg)
 
 8. ### Walk in  the Redwood Forest **Completed: 2005**
 
 9. ### Brew with a Master Brewer **Completed: 2011**
 
 10. ### Live in another country **Completed: 2008**   
-![Perugia, Italy][Perugia, Italy]
+[Perugia, Italy](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/abigale.jpg)
 
-Visit Sophia in Istanbul" tab_id="1440113845075-183c11bd-c2cf" add_icon="true"][vc_single_image image="141" img_size="medium" img_link_large="yes"]
+11. ### Visit Sophia in Istanbul **Completed: 2008**
+[Perugia, Italy](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/perugia.jpg)
 
-Completed: 2008 Perugia, Italy
+12. ### Own a home **Completed: 2014** [1441 Central St. Denver, CO](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/home.jpg)
 
-"Own a home" tab_id="1440114052006-55be2bf3-150b" add_icon="true"][vc_single_image image="144" img_size="medium" img_link_large="yes"]
+13. ### Ride in a helicopter **Completed: 2005**
+[Hawaii](https://raw.githubusercontent.com/cdoelling/century-list/master/Proof/helicopter.jpg)
 
-Completed: 2014 Denver, CO
+14. ### Meditate for 60 Hours
 
-"Ride in a helicopter" tab_id="1440114050730-4d21067c-424a" add_icon="true"][vc_single_image image="145" img_size="medium" img_link_large="yes"]
-
-Completed: 2005
-
-"Learn to meditate" tab_id="1440114045622-46afe861-27c7" add_icon="true"]
-"Learn to shoot a gun" tab_id="1440114265621-45036595-588d" add_icon="true"][vc_single_image image="146" img_size="medium" img_link_large="yes"]
+15. Learn to shoot a gun" tab_id="1440114265621-45036595-588d" add_icon="true"][vc_single_image image="146" img_size="medium" img_link_large="yes"]
 
 Completed: 2009
 
