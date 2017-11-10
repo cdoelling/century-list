@@ -9,12 +9,11 @@ My name is Chase and I first started this exercise when I was a freshman in coll
 
 
 
-1. #### Father a child [Abigale Doelling](../master/Proof/abigale.jpg) Born 11/4/2015
+1. #### ![](../master/done.png =20px) Father a child [Abigale Doelling](../master/Proof/abigale.jpg) Born 11/4/2015
 
 2. #### Graduate College [Dec 2009 University of Colorado at Boulder, Marketing](../master/Proof/college.jpg)
 
-3. ### **Completed: May 26th 2012** | Get Married
-    [Grant Humphreys's Mansion Denver, CO](../master/Proof/kady.jpg)
+3. #### Get Married [May 26th 2012 at Grant Humphreys's Mansion Denver, CO](../master/Proof/kady.jpg)
 
 4. ### **Completed: 2008** | Drive a Porsche
     [Carrera 4](../master/Proof/carrerra.jpg)
