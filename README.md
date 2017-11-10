@@ -9,11 +9,9 @@ My name is Chase and I first started this exercise when I was a freshman in coll
 
 
 
-1. ### **Completed: 2013** | Father a child
-    [Abigale Doelling](../master/Proof/abigale.jpg) Born 11/4/2015
+1. #### Father a child [Abigale Doelling](../master/Proof/abigale.jpg) Born 11/4/2015
 
-2. ### **Completed: 2009** | Graduate College
-    [University of Colorado at Boulder, Marketing](../master/Proof/college.jpg)
+2. #### Graduate College [Dec 2009 University of Colorado at Boulder, Marketing](../master/Proof/college.jpg)
 
 3. ### **Completed: May 26th 2012** | Get Married
     [Grant Humphreys's Mansion Denver, CO](../master/Proof/kady.jpg)
@@ -165,4 +163,4 @@ My name is Chase and I first started this exercise when I was a freshman in coll
 97. Drink Scotch in Scotland
 98. Run for elected position
 99.
-100. 
+100.
