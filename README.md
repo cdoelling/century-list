@@ -42,13 +42,13 @@ My name is Chase and I first started this exercise when I was a freshman in coll
 11. ### Visit Sophia in Istanbul **Completed: 2008**
     [Sophia](../master/Proof/perugia.jpg)
 
-12. ### Own a home **Completed: 2014**
-    [1441 Central St. Denver, CO](../master/Proof/home.jpg)
+12. ### Own a home
+    **Completed: 2014** [1441 Central St. Denver, CO](../master/Proof/home.jpg)
 
-13. ### Ride in a helicopter **Completed: 2005**
-    [In Hawaii](../master/Proof/helicopter.jpg)
+13. ### Ride in a helicopter
+    **Completed: 2005** [In Hawaii](../master/Proof/helicopter.jpg)
 
-14. ### Meditate for 60 Hours
+14. ### Meditate for 100 Hours
 
 15. ### Learn to shoot a gun **Completed: 2009**
     [Black Water Training 9mm](../master/Proof/gun.jpg)
@@ -95,128 +95,74 @@ My name is Chase and I first started this exercise when I was a freshman in coll
 29. ### Get an MBA **Completed: 2017**
     [Summer - Emphasis in Business Strategy]()
 
-Read a 1000 books [160/1000](../master/books.md)
-
-
-Climb a Colorado 14ner" tab_id="1440115340075-ea3e87e2-c689"]
-Build a self operating engine" tab_id="1440116126626-faa0b693-6361"]
-Take an acting class" tab_id="1440116144546-37c81f50-e110"]
-Fly an airplane" tab_id="1440116172315-a2a40b52-2641"]
-Learn a computer language" tab_id="1440116198207-ddce125c-fdbd"]
-Drive the Autobahn in Germany" tab_id="1440116235882-224715ed-7f55"]
-Go camping and sleep outside" tab_id="1440116254619-ea35204f-6459"]
-Drive a Ferrari" tab_id="1440116290413-2052002a-89a4"]
-Go Kayaking" tab_id="1440116322509-56e4d579-e419"]
-Drive entire length of Colfax Street (Longest in USA)" tab_id="1440116360178-03efcc68-6945"]
-Ride an elephant" tab_id="1440116421882-b2842df6-87da"]
-Have 2 Million Net Worth" tab_id="1440116444621-84a38bb0-17b9"]
-Learn a ballroom dance" tab_id="1440116463513-440d700a-715c"]
-Help someone who can't help themself" tab_id="1440116486361-842298f6-fd0e"]
-Mentor 3 People" tab_id="1440116533622-9c316f2b-6bb9"]
-Experience Weightlessness" tab_id="1440116573995-6c81df84-03ed"]
-Spend Christmas on a beach" tab_id="1440116601880-eaa5874b-519d"]
-Donate enough money to put your name on something" tab_id="1440116628988-adf56657-cd2d"]
-Learn to negotiate small and large" tab_id="1440116660700-e56d9188-0e41"]
-Travel to 30 Different Countries" tab_id="1440116688313-b155fd0a-1f93"]
-
-    Mexico
-    Canada
-    Caribbean Islands
-    Italy
-    France
-    Germany
-    Portugal
-    Poland
-    Spain
-    Netherlands
-    Czech Republic
-    Belgium
-    England
-    Ireland
-    Hungary
-    Luxemburg
-    Turkey
-    Switzerland
-    Austria
-    Dominican Republic
-    Iceland
-    Sweden
-
-Buy a custom fit suit" tab_id="1440117482271-83111cb6-cd29"]
-Finish a round with even par " tab_id="1440117526958-345a217e-51be"]
-Ask for a raise" tab_id="1440117628616-00fc7b24-d550"]
-Make my own watch" tab_id="1440117731548-973edd8a-8894"]
-Sit on a jury" tab_id="1440117763501-4979ff84-498d"]
-See the stars without any city lights" tab_id="1440117781057-b75a1921-217b"]
-Sail a boat" tab_id="1440117814001-0f990a2b-5363"]
-Pass through the Panama Canal" tab_id="1440117982012-faa7d745-7710"]
-Learn to surf" tab_id="1440118110369-bf898f31-8095"]
-Swim in the Great Barrier Reef" tab_id="1440118124275-8732f87b-63a7"]
-Visit Easter Island and see what the Heads see" tab_id="1440118148170-fbc47f6a-b320"]
-Walk the Taj Mahal" tab_id="1440118194181-2c61a919-b2e6"]
-Walk the Red Square" tab_id="1440118220353-fe1a4046-8dda"]
-Ride a motorcycle on Route 66" tab_id="1440118236133-88b8e82a-05c5"]
-Visit all 50 States + DC" tab_id="1440118265721-ec82c472-f19d"]
-
-    Colorado
-    California
-    South Dakota
-    Tennessee
-    Texas
-    Arizona
-    New Mexico
-    Massachusetts
-    New York
-    New Jersey
-    Pennsylvania
-    Indiana
-    Nebraska
-    Kansas
-    Illinois
-    Nevada
-    Louisiana
-    Florida
-    North Carolina
-    South Carolina
-    Georgia
-    Virginia
-    District of Columbia
-    Hawaii
-    Connecticut
-    Oregon
-    Washington
-    Missouri
-    Kentucky
-    Maryland
-    Wyoming
-
-Buy a shelter dog a toy before its put down" tab_id="1440118293084-87c61726-8d06"]
-Step foot on all 7 Continents" tab_id="1440118391059-bf55959f-1350"]
-Own a rental property or second home" tab_id="1440118430844-4c646340-8230"]
-Debt free by age 50, all assets" tab_id="1440118449929-7fe3ee14-1d36"]
-Speak 3 other languages" tab_id="1440118480990-f0911d7f-b3ef"]
-Teach a class " tab_id="1440118502415-1ce86b2a-00bd"]
-Make a pair of my own shoes" tab_id="1440118532658-f266b779-23fa"]
-Get something published" tab_id="1440160990091-53df557d-4615"]
-Race a car in a competition" tab_id="1440161012154-7ed63427-eeed"]
-Make a movie" tab_id="1440161037663-de11a1ff-a275"]
-Live off the grid for a week" tab_id="1440161059596-87015259-ecbe"]
-Make my own urn for my death" tab_id="1440161074576-bc8a8bba-9025"]
-Go skydiving" tab_id="1440161104285-63b4af79-34c5"]
-Ride in a hot air ballon" tab_id="1440161128811-f2c856f2-4433"]
-Visit the Great Wall of China" tab_id="1440161143984-c2db191c-03aa"]
-Sell a piece of art I made" tab_id="1440161164946-509be133-d984"]
-Build something that helps others" tab_id="1440161190661-68f844d4-3b57"]
-Read all major religious texts" tab_id="1440161212862-a92573ff-e3e2"]
-Make graffiti art in a public space" tab_id="1440161331592-d2d2557e-d9d4"]
-Win a fencing competition" tab_id="1440161378751-a46e85aa-76de"]
-Perform stand up comedy" tab_id="1440161395517-97f45da6-3d41"]
-Learn to juggle" tab_id="1440161410870-edaed093-866a"]
-See a shooting star" tab_id="1440161436300-6a341b28-f606"]
-Distill my own spirits" tab_id="1440161449610-401d5738-b0e6"]
-Build something that outlasts me" tab_id="1440161470227-49702246-bbd7"]
-Plant 100 trees" tab_id="1440161486421-6cd13ec2-7b26"]
-Fast for a day" tab_id="1440161515143-f96400da-2966"]
-Circumnavigate the globe" tab_id="1440161529389-aa56df5c-96d4"]
-Donate enough for Platinum Level Movember" tab_id="1445967869319-c86f3faa-e5e9"]
-[/vc_tta_accordion][/vc_column][/vc_row]
+30. ### Read a 1000 books [160/1000](../master/books.md)
+31. Climb a Colorado 14ner
+32. Build a self operating engine
+33. Take an acting class
+34. Fly an airplane
+35. Learn a computer language
+36. Drive the Autobahn in Germany
+37. Go camping and sleep outside
+38. Drive a Ferrari
+39. Go Kayaking
+40. Drive entire length of Colfax Street (Longest in USA)
+41. Ride an elephant
+42. Have 2 Million Net Worth
+43. Learn a ballroom dance
+44. Help someone who can't help them self
+45. Mentor 3 People
+46. Experience Weightlessness
+47. Spend Christmas on a beach
+48. Donate enough money to put your name on something
+49. Learn to negotiate small and large
+50. Travel to 30 Different Countries [22/30](../master/countries.md)
+51. Buy a custom fit suit
+52. Finish a round with even par
+53. Ask for a raise
+54. Make my own watch
+55. Sit on a jury  
+56. Sail a boat  
+57. Pass through the Panama Canal  
+58. Learn to surf  
+59. Swim in the Great Barrier Reef  
+60. Visit Easter Island and see what the Heads see  
+61. Walk the Taj Mahal  
+62. Walk the Red Square  
+63. Ride a motorcycle on Route 66  
+64. Visit all 50 States + DC [33/50](../master/states.md)
+65. Buy a shelter dog a toy before its put down  
+66. Step foot on all 7 Continents  
+67. Own a rental property or second home
+68. Debt free by age 50, all assets  
+69. Speak 3 other languages  
+70. Teach a class   
+71. Make a pair of my own shoes  
+72. Get something published  
+73. Race a car in a competition  
+74. Make a movie  
+75. Live off the grid for a week  
+76. Make my own urn for my death  
+77. Go skydiving  
+78. Ride in a hot air ballon  
+79. Visit the Great Wall of China  
+80. Sell a piece of art I made  
+81. Build something that helps others  
+82. Read all major religious texts  
+83. Make graffiti art in a public space  
+84. Win a fencing competition  
+85. Perform stand up comedy  
+86. Learn to juggle  
+87. See a shooting star  
+88. Distill my own spirits  
+89. Build something that outlasts me  
+90. Plant 100 trees  
+91. Fast for a day  
+92. Circumnavigate the globe  
+93. Donate enough for Platinum Level Movember
+94. Golf St. Andrews
+95. Golf Pebble Beach
+96. Become a Chief Marketing Officer
+97. Drink Scotch in Scotland
+98. Run for elected position
+99.
+100. 
