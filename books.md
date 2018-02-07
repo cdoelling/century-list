@@ -97,65 +97,76 @@
 97.	Good to Great by Jim Collins
 98.	Brewing up a Business by Sam Calogonge
 99.	What the Dog Saw by malcom Gladwell
-100.	Tipping Point by Malcom Gladwell
-101.	Blink by Malcom Gladwell
-102.	Outliers by Malcom Gladwell
-103.	Drive by Daniel Pink
-104.	Made to Stick by Chip and Dan Heath
-105.	Switch by Chip and Dan Heath
-106.	Freakonomics by Levitt
-107.	Me Talk Pretty One Day by David Sadaris
-108.	The Lean Start Up by Eric Ries
-109.	When You are Engulfed in Flames by David Sedaris
-110.	Crush It! by Vaynerchuk
-111.	The Art of Shaving by Zaoui
-112.	Sparks of Genius by Root
-113.	Business Model Generation by Osterwalder
-114.	Business Model You by Osterwalder
-115.	Without Their Permission by Alexis Ohanian
-116.	Rant by Chuck Palahniuk
-117.	Invisible Monsters by Chuck Palahniuk
-118.	Pygmy by Chuck Palahniuk
-119.	Snuff by by Chuck Palahniuk
-120.	Choke by Chuck Palahniuk
-121.	Lullaby by Chuck Palahniuk
-122.	Survivor by Chuck Palahniuk
-123.	The Happiness Advantage by Shawn Achor
-124.	Zen Pencils by Aung Than
-125.	Mayo Clinic Guide to Pregnancy
-126.	Welcome to your Child's Brain by Sandra Aamodt, Sam Wang
-127.	Practical Management Science by Albright
-128.	Economics for Managers by Farnham
-129.	The Art of Thinking Clearly by Rolf Dobbelli
-130.	Zero to One by Peter Theil
-131.	Get Up Stay Up Graffiti
-132.	Money Guide 2015 by Jonathan Clements
-133.	The art of thinking clearly
-134.	Zero to One by Peter Theil
-135.	how to read a book
-136.	Get up Stay Up
-137.	The hard thing about hard things by Ben Harrowitz
-138.	Mid Century Ads Collection
-139.	Rare teachings of Napoleon Hill
-140.	Money Pizza Respect by @Fat Jewish
-141.	Growth Hacker Marketing
-142.	Make something up by Chuck Phalanuik
-143.	Strategic Management by Pearce & Robinson
-144.	Do the work by Steven Pressfield
-145.	International Entrepreneurship by Manuel Shapiro
-146.	Antifragile by Nassim Taleb
-147.	The Decision Book by Krogerus & Tschappler
-148.	Illustrated Gonzo life of Hunter S Thompson
-149.	Disciplined Entrepreneurship by Bill Ault
-150.	Success Built to Last by Porras
-151.	What the best CEOs Know by Jeffery Krames
-152.	Money by Tony Robbins
-153.	Peace between the sheets Maria Robinson
-154.	Organizational Theory and Change by Jones
-155.	Book of Awesome by Fakegrimlock
-156.	The terrible wonderful reasons I run long distances by Oatmeal
-157.	The art of witty banter by Patrick King
-158.	Radical Candor by Kim Scott
-159.	Food Fights and Culture Wars by Dan Nealon
-160.	Managing Human Resources by Wayne Casio
-161.	The Dark History of CyberWars
+100. Tipping Point by Malcom Gladwell
+101. Blink by Malcom Gladwell
+102. Outliers by Malcom Gladwell
+103. Drive by Daniel Pink
+104. Made to Stick by Chip and Dan Heath
+105. Switch by Chip and Dan Heath
+106. Freakonomics by Levitt
+107. Me Talk Pretty One Day by David Sadaris
+108. The Lean Start Up by Eric Ries
+109. When You are Engulfed in Flames by David Sedaris
+110. Crush It! by Vaynerchuk
+111. The Art of Shaving by Zaoui
+112. Sparks of Genius by Root
+113. Business Model Generation by Osterwalder
+114. Business Model You by Osterwalder
+115. Without Their Permission by Alexis Ohanian
+116. Rant by Chuck Palahniuk
+117. Invisible Monsters by Chuck Palahniuk
+118. Pygmy by Chuck Palahniuk
+119. Snuff by by Chuck Palahniuk
+120. Choke by Chuck Palahniuk
+121. Lullaby by Chuck Palahniuk
+122. Survivor by Chuck Palahniuk
+123. The Happiness Advantage by Shawn Achor
+124. Zen Pencils by Aung Than
+125. Mayo Clinic Guide to Pregnancy
+126. Welcome to your Child's Brain by Sandra Aamodt, Sam Wang
+127. Practical Management Science by Albright
+128. Economics for Managers by Farnham
+129. The Art of Thinking Clearly by Rolf Dobbelli
+130. Zero to One by Peter Theil
+131. Get Up Stay Up Graffiti
+132. Money Guide 2015 by Jonathan Clements
+133. The art of thinking clearly
+134. Zero to One by Peter Theil
+135. How to Read a Book
+136. Get up Stay Up
+137. The hard thing about hard things by Ben Harrowitz
+138. Mid Century Ads Collection
+139. Rare teachings of Napoleon Hill
+140. Money Pizza Respect by Fat Jewish
+141. Growth Hacker Marketing
+142. Make something up by Chuck Phalanuik
+143. Strategic Management by Pearce & Robinson
+144. Do the work by Steven Pressfield
+145. International Entrepreneurship by Manuel Shapiro
+146. Antifragile by Nassim Taleb
+147. The Decision Book by Krogerus & Tschappler
+148. Illustrated Gonzo life of Hunter S Thompson
+149. Disciplined Entrepreneurship by Bill Ault
+150. Success Built to Last by Porras
+151. What the best CEOs Know by Jeffery Krames
+152. Money by Tony Robbins
+153. Peace between the sheets Maria Robinson
+154. Organizational Theory and Change by Jones
+155. Book of Awesome by Fakegrimlock
+156. The terrible wonderful reasons I run long distances by Oatmeal
+157. The art of witty banter by Patrick King
+158. Radical Candor by Kim Scott
+159. Food Fights and Culture Wars by Dan Nealon
+160. Managing Human Resources by Wayne Casio
+161. The Dark History of CyberWars
+162. The One Thing by Gary Keller
+163. Just Enough Research Erica Hall
+164. Dark Territory by Fred Kaplan
+165. What If by Edmund Monroe
+166. The subtle art of not giving a fuck my Mark Manson
+167. Words that work by Frank Luntz
+168. Meditations by Marcus Arelius
+169. The everything store by Brad Stone
+170. The lingerie book by Mitchel Gray
+171. Lingerie Modern Guide by Leslie Scott
+172. 

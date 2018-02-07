@@ -1,13 +1,15 @@
 # Century List
-**# If you had a century to live, what 100 things can you accomplish
+## If you had a century to live, what 100 things can you accomplish
 
-> Hi,
-My name is Chase and I first started this exercise when I was a freshman in college.  These items shift with priority over the years.  Once an item is completed it stays on the list, so you can only alternate what is left.  Here is my **Century List**.
+> Guideline: Items can be changed and replaced at any time. Take care to update every year, preferably at the start of each new year as you will have the most motivation to think reflectively.  Think big and barrow vigorously from others in what they have accomplished.
 
+>Law: Once an item is completed it stays on the list, you can only alternate what is left.  
+
+**Chase Doelling's Century List**
 
 ### Currently Completed **29** Items
 #### Need Proof for **4** items
-#### Need to add **4** items
+#### Need to add **5** items
 
 
 1. **Father a child** [Abigale Doelling](../master/Proof/abigale.jpg) Born 11/4/2015
@@ -16,7 +18,7 @@ My name is Chase and I first started this exercise when I was a freshman in coll
 
 3. **Get Married** [May 26th 2012 at Grant Humphreys's Mansion Denver, CO](../master/Proof/kady.jpg)
 
-4. **Drive a Porsche** [Carrera 4 2008](../master/Proof/carrerra.jpg)
+4. **Get an MBA** [Summer 2017 - Emphasis in Business Strategy](../master/Proof/mba.jpeg)
 
 5. **Become a Certified Beer Judge** [2012 BJCP Certified](../master/Proof/bjcp.jpg)
 
@@ -36,7 +38,7 @@ My name is Chase and I first started this exercise when I was a freshman in coll
 
 13. **Ride in a helicopter** [2005 in Hawaii](../master/Proof/helicopter.jpg)
 
-14. **Learn to juggle** [Aunt & Uncle's House 2005]()
+14. **Learn to juggle** [Pasadena, CA 2005]()
 
 15. **Learn to shoot a gun** [2009 at Black Water Training 9mm](../master/Proof/gun.jpg)
 
@@ -44,7 +46,7 @@ My name is Chase and I first started this exercise when I was a freshman in coll
 
 17. **Take a yoga class** [2013 at Brewvasinya](../master/Proof/yoga.jpg)
 
-18. **Get a tatoo** [2008 & 2014, both from Munich Germany]()
+18. **Get a tattoo** [2008 & 2014, both from Munich Germany]()
 
 19. **Get a piercing** [Left Ear 2009 From Tribal Rites Boulder, CO](../master/Proof/ear.jpg)
 
@@ -66,9 +68,9 @@ My name is Chase and I first started this exercise when I was a freshman in coll
 
 28. **Start a Business** [S Corporation of Craft Boom Corp.  Shut down 2015.](../master/Proof/craftboom.jpg)
 
-29. **Get an MBA** [Summer 2017 - Emphasis in Business Strategy](../master/Proof/mba.jpeg)
+29. Read all major religious texts
 
-30. Read a 1000 books [160/1000](../master/books.md)
+30. Read a 1000 books [172/1000](../master/books.md)
 31. Climb a Colorado 14ner
 32. Build a self operating engine
 33. Take an acting class
@@ -82,21 +84,21 @@ My name is Chase and I first started this exercise when I was a freshman in coll
 41. Ride an elephant
 42. Have 2 Million Net Worth
 43. Learn a ballroom dance
-44. Help someone who can't help them self
+44. Meditate for 100 Hours
 45. Mentor 3 People
 46. Experience Weightlessness
 47. Spend Christmas on a beach
 48. Donate enough money to put your name on something
-49.
+49. Own a Porsche by 35
 50. Travel to 30 Different Countries [22/30](../master/countries.md)
 51. Buy a custom fitted suit
 52. Finish a round with even par
-53.
+53. Run for elected position
 54. Make my own watch
 55. Sit on a jury  
 56. Sail a boat  
 57. Pass through the Panama Canal  
-58. Learn to successfully surf a wave
+58. Successfully surf a wave
 59. Swim in the Great Barrier Reef  
 60. Visit Easter Island and see what the Heads see  
 61. Walk through the Taj Mahal  
@@ -104,7 +106,7 @@ My name is Chase and I first started this exercise when I was a freshman in coll
 63. Ride a motorcycle on Route 66  
 64. Visit all 50 States + DC [33/50](../master/states.md)
 65. Buy a shelter dog a toy before its put down  
-66. Step foot on all 7 Continents  
+66. Step foot on all 7 Continents (2/7)  
 67. Own a rental property or second home
 68. Debt free by age 50, all assets  
 69. Speak 3 other languages  
@@ -117,14 +119,14 @@ My name is Chase and I first started this exercise when I was a freshman in coll
 76. Make my own urn for my death  
 77. Go skydiving  
 78. Ride in a hot air ballon  
-79. Visit the Great Wall of China  
+79. Walk on the Great Wall of China  
 80. Sell a piece of art I made  
 81. Build something that helps others  
-82. Read all major religious texts  
+82. Drink Scotch in Scotland
 83. Make graffiti art in a public space  
 84. Win a fencing competition  
 85. Perform stand up comedy  
-86.   
+86. Become a Chief Marketing Officer  
 87. See a shooting star  
 88. Distill my own spirits  
 89. Build something that outlasts me  
@@ -134,8 +136,8 @@ My name is Chase and I first started this exercise when I was a freshman in coll
 93. Donate enough for Platinum Level Movember
 94. Golf St. Andrews
 95. Golf Pebble Beach
-96. Become a Chief Marketing Officer
-97. Drink Scotch in Scotland
-98. Run for elected position
-99. Meditate for 100 Hours
+96.
+97.
+98.
+99.
 100.
