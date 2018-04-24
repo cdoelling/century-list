@@ -169,4 +169,12 @@
 169. The everything store by Brad Stone
 170. The lingerie book by Mitchel Gray
 171. Lingerie Modern Guide by Leslie Scott
-172. 
+172. Astrophysics for People in a Hurry by Neil Degrass Tyson
+173. How to Fail and Still Win Big by Scott Adams
+174. The Last Black Unicorn by Tiffany Haddish
+175. Total Money Makeover by Dave Ramsey
+176. You are a bad ass money making machine by Jen Scinero
+177. Skin in the Game by Nassim Taleb
+178. I know I am but What Are You by Samantha Berger
+179.
+180.
