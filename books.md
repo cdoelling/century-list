@@ -167,8 +167,8 @@
 167. Words that work by Frank Luntz
 168. Meditations by Marcus Arelius
 169. The everything store by Brad Stone
-170. The lingerie book by Mitchel Gray
-171. Lingerie Modern Guide by Leslie Scott
+170. The Tao of Winnie the Pooh
+171. A Modern Guide by Leslie Scott
 172. Astrophysics for People in a Hurry by Neil Degrass Tyson
 173. How to Fail and Still Win Big by Scott Adams
 174. The Last Black Unicorn by Tiffany Haddish
@@ -176,5 +176,13 @@
 176. You are a bad ass money making machine by Jen Scinero
 177. Skin in the Game by Nassim Taleb
 178. I know I am but What Are You by Samantha Berger
-179.
-180.
+179. How to fail and still win big by Scott Adams
+180. The Last Black Unicorn by Tiffany Haddish
+181. Extreme Ownership by Jacko Willik
+182. Total Money Makeover by Dave Ramsey
+183. You are a badass money making machine by Jen Sincero
+184. Skin in the Game by Nassim Taleb
+185. Your Ad Ignored Here by Tom Fishburne
+186. 12 Rules for Life by Jordan Peterson
+187. Rich Dad Poor Dad by Robert Kiyosaki
+188. When by Dan Pink
