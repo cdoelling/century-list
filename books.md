@@ -176,7 +176,7 @@
 176. You are a bad ass money making machine by Jen Scinero
 177. Skin in the Game by Nassim Taleb
 178. I know I am but What Are You by Samantha Berger
-179. How to fail and still win big by Scott Adams
+179. Crucial Conversations by Patterson & Others
 180. The Last Black Unicorn by Tiffany Haddish
 181. Extreme Ownership by Jacko Willik
 182. Total Money Makeover by Dave Ramsey
