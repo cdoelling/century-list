@@ -9,7 +9,7 @@
 
 ### Currently Completed **29** Items
 #### Need Proof for **4** items
-#### Need to add **5** items
+#### Need to add **4** items
 
 
 1. **Father a child** [Abigale Doelling](../master/Proof/abigale.jpg) Born 11/4/2015
@@ -46,7 +46,7 @@
 
 17. **Take a yoga class** [2013 at Brewvasinya](../master/Proof/yoga.jpg)
 
-18. **Get a tattoo** [2008 & 2014, both from Munich Germany]()
+18. **Get a tattoo** [2008 Munich, 2014 Munich, 2018 New Orleans]()
 
 19. **Get a piercing** [Left Ear 2009 From Tribal Rites Boulder, CO](../master/Proof/ear.jpg)
 
@@ -70,7 +70,7 @@
 
 29. Read all major religious texts
 
-30. Read a 1000 books [172/1000](../master/books.md)
+30. Read a 1000 books [196/1000](../master/books.md)
 31. Climb a Colorado 14ner
 32. Build a self operating engine
 33. Take an acting class
@@ -84,7 +84,7 @@
 41. Ride an elephant
 42. Have 2 Million Net Worth
 43. Learn a ballroom dance
-44. Meditate for 100 Hours
+44. Meditate for 100 Hours [44/100]
 45. Mentor 3 People
 46. Experience Weightlessness
 47. Spend Christmas on a beach
@@ -131,12 +131,12 @@
 88. Distill my own spirits  
 89. Build something that outlasts me  
 90. Plant 100 trees  
-91. Fast for a day  
+91. **Fast for a day** [11/17/2018] No Proof
 92. Circumnavigate the globe  
 93. Donate enough for Platinum Level Movember
 94. Golf St. Andrews
 95. Golf Pebble Beach
-96.
+96. Cook food that I have killed
 97.
 98.
 99.
