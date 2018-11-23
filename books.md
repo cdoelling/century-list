@@ -186,3 +186,11 @@
 186. 12 Rules for Life by Jordan Peterson
 187. Rich Dad Poor Dad by Robert Kiyosaki
 188. When by Dan Pink
+189. Crucial Conversation by Patterson
+190. Sapiens by Yuval Harari
+191. Ego is the Enemy by Ryan Holliday
+192. Kitchen Confidential by Anthony Bourdain
+193. 21 Quesitons by Yuval Harari
+194. Adjustment Day by Chuck Phalanuik
+195. Calypso by David Sedaris
+196. Twain's Feast by Nick Offerman
