@@ -70,7 +70,7 @@
 
 29. Read all major religious texts
 
-30. Read a 1000 books [196/1000](../master/books.md)
+30. Read a 1000 books [198/1000](../master/books.md)
 31. Climb a Colorado 14ner
 32. Build a self operating engine
 33. Take an acting class
@@ -81,10 +81,10 @@
 38. Drive a Ferrari
 39. Go Kayaking
 40. Drive entire length of Colfax Street (Longest in USA)
-41. Ride an elephant
+41. Walk with an elephant
 42. Have 2 Million Net Worth
 43. Learn a ballroom dance
-44. Meditate for 100 Hours [44/100]
+44. Meditate for 100 Hours [48/100]
 45. Mentor 3 People
 46. Experience Weightlessness
 47. Spend Christmas on a beach
@@ -137,7 +137,7 @@
 94. Golf St. Andrews
 95. Golf Pebble Beach
 96. Cook food that I have killed
-97.
-98.
+97. Go a week without caffeine
+98. Dine at 10 Michelin 3 Star restaurants
 99.
 100.
