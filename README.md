@@ -70,7 +70,7 @@
 
 29. Read all major religious texts
 
-30. Read a 1000 books [198/1000](../master/books.md)
+30. Read a 1000 books [203/1000](../master/books.md)
 31. Climb a Colorado 14ner
 32. Build a self operating engine
 33. Take an acting class
@@ -84,7 +84,7 @@
 41. Walk with an elephant
 42. Have 2 Million Net Worth
 43. Learn a ballroom dance
-44. Meditate for 100 Hours [48/100]
+44. Meditate for 100 Hours [53/100]
 45. Mentor 3 People
 46. Experience Weightlessness
 47. Spend Christmas on a beach
@@ -94,7 +94,7 @@
 51. Buy a custom fitted suit
 52. Finish a round with even par
 53. Run for elected position
-54. Make my own watch
+54. Visit Doelling Graves in Karlsruhe Germany
 55. Sit on a jury  
 56. Sail a boat  
 57. Pass through the Panama Canal  
@@ -138,6 +138,6 @@
 95. Golf Pebble Beach
 96. Cook food that I have killed
 97. Go a week without caffeine
-98. Dine at 10 Michelin 3 Star restaurants
-99.
+98. Dine at 10 Michelin 3 Star restaurants (1/10)
+99. Visit Doelling Graves in Karlsruhe Germany
 100.
