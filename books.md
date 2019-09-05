@@ -201,4 +201,22 @@
 201. Getting to AHA! by Andy Cummings
 202. Alcohol & Tobacco Ads by Jim Hiemman
 203. Speak like Churchill, Stand like Lincoln by James Humes
-204. 
+204. Power Moves, Lessons from Davos by Adam Grant
+205. Factfulness by Hans Rosling
+206. New Yorker Encyclopedia of Cartoons V.1
+207. The fear of wine by Leslie Brenner
+208. The Laws of Nature by Robert Greene
+209. So anyway by John Cleese
+210. Breakfast of Champions by Kurt Vonnegut
+211. The 50th Law by Robert Green
+212. Salt a World History by Mark Kurlanski
+213. How to talk to anyone by Leil Landowns
+214. Atomic Habits by James Clear
+215. Dollars and Sense by Dan Arley
+216. Master and Margarita by Mikhail Bulgakov
+217. The Donut Book by Sally Stienberg
+218. Rivals by Scott McCormick
+219. Deep Work by Cal Newton
+220. Heads will roll by Kate McKinnon
+221. Whiteboard Selling by Sommers & Jenkins
+222. The man who knew the way to the moon by Todd Zwillich
