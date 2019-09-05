@@ -70,7 +70,7 @@
 
 29. Read all major religious texts
 
-30. Read a 1000 books [203/1000](../master/books.md)
+30. Read a 1000 books [222/1000](../master/books.md)
 31. Climb a Colorado 14ner
 32. Build a self operating engine
 33. Take an acting class
@@ -140,4 +140,4 @@
 97. Go a week without caffeine
 98. Dine at 10 Michelin 3 Star restaurants (1/10)
 99. Visit Doelling Graves in Karlsruhe Germany
-100.
+100. Read 20 books twice
