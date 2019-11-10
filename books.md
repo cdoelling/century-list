@@ -220,3 +220,10 @@
 220. Heads will roll by Kate McKinnon
 221. Whiteboard Selling by Sommers & Jenkins
 222. The man who knew the way to the moon by Todd Zwillich
+223. Never Split the Difference by Chris Voss
+224. The Philosophy of Andy Warhol by Andy Warhol
+225. Talking with Strangers by Malcom Gladwell
+226. Dichotomy of Leadership by Jacko Willik
+227. I will teach you to be rich by Ramit Shati
+228. Bird by Bird by Anne Lamott
+229. Fuck that's delicious by Action Bronson
