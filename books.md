@@ -30,9 +30,9 @@
 30.	The 4 Hour Chef by Tim Ferris
 31.	The Fountain Head by Ayn Rand
 32.	Atlas Shrugged by Ayn Rand
-33.	How to Win Friends and Influence Peopl by Dale Carnigie
+33.	How to Win Friends and Influence People by Dale Carnegie
 34.	Thinking Fast and Slow by Daniel Kahneman
-35.	Moonwalking with Einstien by Joshua Foer
+35.	Moonwalking with Einstein by Joshua Foer
 36.	The Girl with the Dragon Tattoo by Stieg Larson
 37.	Glimmer by Warren Berger
 38.	Little Bets by Peter Sims
@@ -47,31 +47,31 @@
 47.	Bossypants by Tina Fey
 48.	Murphys Law by Arthur Bloch
 49.	Operating Manual for Spaceship Earth by Buckminster Fuller
-50.	Thr Truth About Negotiation by Leigh Thompson
-51.	The Sun Also Rises by Ernest Hemmingway
-52.	Call to Arms by Ernist Hemmingway
+50.	The Truth About Negotiation by Leigh Thompson
+51.	The Sun Also Rises by Ernest Hemingway
+52.	Call to Arms by Ernest Hemingway
 53.	Doomed by Chuck Palahniuk
 54.	Fooled by Randomness by Nassim Taleb
 55.	The Black Swan by Nassim Taleb
 56.	The Strategic Designer by Holstom
 57.	To Kill A Mockingbird by Harper Lee
 58.	The Great Gatsby by Scott Fitzgerald
-59.	Romeo and Juliet by Shakespear
+59.	Romeo and Juliet by Shakespeare
 60.	Of Mice and Men by Steinbeck
 61.	The Adventures of Huckleberry Finn by Mark Twain
 62.	Frankenstein by Shelly
 63.	The Count of Monte Cristo by Alexander Dumas
 64.	Great Expectations by Charles Dickens
 65.	Treasure Island by Robert Louis Stevenson
-66.	The Illiad by Homer
-67.	The Hobit by J.R.R. Tolkien
+66.	The Iliad by Homer
+67.	The Hobbit by J.R.R. Tolkien
 68.	Candide by Voltaire
 69.	Anna Karina by Fyodor Dostoyevsky
-70.	Siddartha by Hesse
+70.	Siddhartha by Hesse
 71.	The Lion, Witch and The Wardrobe by C.S. Lewis
 72.	Inferno by Dante Alighieri
 73.	Anthem by Ayn Rand
-74.	Harry Potter and Socerers Stone by J.K. Rowling
+74.	Harry Potter and Sorcerers Stone by J.K. Rowling
 75.	Harry Potter and the Chamber of Secrets by J.K. Rowling
 76.	Harry Potter and the Prisoner of Azkaban by J.K. Rowling
 77.	Harry Potter and Goblet of Fire by J.K. Rowling
@@ -96,7 +96,7 @@
 96.	Do More Faster by Brad Feld
 97.	Good to Great by Jim Collins
 98.	Brewing up a Business by Sam Calogonge
-99.	What the Dog Saw by malcom Gladwell
+99.	What the Dog Saw by Malcom Gladwell
 100. Tipping Point by Malcom Gladwell
 101. Blink by Malcom Gladwell
 102. Outliers by Malcom Gladwell
@@ -107,7 +107,7 @@
 107. Me Talk Pretty One Day by David Sadaris
 108. The Lean Start Up by Eric Ries
 109. When You are Engulfed in Flames by David Sedaris
-110. Crush It! by Vaynerchuk
+110. Crush It! by Gary Vaynerchuk
 111. The Art of Shaving by Zaoui
 112. Sparks of Genius by Root
 113. Business Model Generation by Osterwalder
@@ -143,7 +143,7 @@
 143. Strategic Management by Pearce & Robinson
 144. Do the work by Steven Pressfield
 145. International Entrepreneurship by Manuel Shapiro
-146. Antifragile by Nassim Taleb
+146. Anti-fragile by Nassim Taleb
 147. The Decision Book by Krogerus & Tschappler
 148. Illustrated Gonzo life of Hunter S Thompson
 149. Disciplined Entrepreneurship by Bill Ault
@@ -190,7 +190,7 @@
 190. Sapiens by Yuval Harari
 191. Ego is the Enemy by Ryan Holliday
 192. Kitchen Confidential by Anthony Bourdain
-193. 21 Quesitons by Yuval Harari
+193. 21 Questions by Yuval Harari
 194. Adjustment Day by Chuck Phalanuik
 195. Calypso by David Sedaris
 196. Twain's Feast by Nick Offerman
@@ -227,3 +227,7 @@
 227. I will teach you to be rich by Ramit Shati
 228. Bird by Bird by Anne Lamott
 229. Fuck that's delicious by Action Bronson
+230. Slaughter House Five by Kurt Vonnegut
+231. The Challenger Sale by Matt Dixon
+232. Anthony Bourdain: The Last Interview by Helen Rosner
+234. Influence and Persuasion by HBR Press
