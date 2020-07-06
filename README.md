@@ -8,7 +8,7 @@
 **Chase Doelling's Century List**
 
 ### Currently Completed **29** Items
-#### Need Proof for **4** items
+#### Need Proof for **5** items
 #### Need to add **4** items
 
 
@@ -68,9 +68,9 @@
 
 28. **Start a Business** [S Corporation of Craft Boom Corp.  Shut down 2015.](../master/Proof/craftboom.jpg)
 
-29. Read all major religious texts
+29. **Meditate for 100 Hours** [Completed]
 
-30. Read a 1000 books [229/1000](../master/books.md)
+30. Read a 1000 books [242/1000](../master/books.md)
 31. Climb a Colorado 14ner
 32. Build a self operating engine
 33. Take an acting class
@@ -84,12 +84,12 @@
 41. Walk with an elephant
 42. Have 2 Million Net Worth
 43. Learn a ballroom dance
-44. Meditate for 100 Hours [83/100]
+44. Read all major religious texts
 45. Mentor 3 People
 46. Experience Weightlessness
 47. Spend Christmas on a beach
 48. Donate enough money to put your name on something
-49. Own a Porsche by 35
+49. Own a Porsche by 40
 50. Travel to 30 Different Countries [22/30](../master/countries.md)
 51. Buy a custom fitted suit
 52. Finish a round with even par
@@ -124,7 +124,7 @@
 81. Build something that helps others  
 82. Drink Scotch in Scotland
 83. Make graffiti art in a public space  
-84. Win a fencing competition  
+84.   
 85. Perform stand up comedy  
 86. Become a Chief Marketing Officer  
 87. See a shooting star  

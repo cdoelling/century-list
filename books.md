@@ -231,3 +231,11 @@
 231. The Challenger Sale by Matt Dixon
 232. Anthony Bourdain: The Last Interview by Helen Rosner
 234. Influence and Persuasion by HBR Press
+235. Educated by Tara Westover
+236. Principles by Ray Dalio
+237. On Managing Yourself by HBR Press
+238. Nothing to see here by Kevin Wilson
+239. Empire of the Summer Moon by CS Gwyne
+240. Unfuck Yourself by Gary Bishop
+241. Gary Player's Black Book by Gary Player
+242. Cheaters Always Win by JM Fenster
