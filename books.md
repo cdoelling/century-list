@@ -249,3 +249,26 @@
 250. Consider This by Chuck Phalanuik
 251. A wealth of pigeons by Steve Martin and Harry Bliss
 252. When you finish saving the world by Jesse Eisenberg
+253. Shape Up by Ryan Singer
+254. 10 Lessons for a Post Pandemic World by Fareed Zakaria
+255. The Compound Effect by Darren Hardy
+256. The Ultimate Zig Ziglar Collection by Zig Ziglar
+257. The Best of Me by David Sedaris
+258. Rental Property Investing byt Brandon Turner
+259. Solutions and other Problems by Allie Brosh
+260. The Messy Middle by Scott Belsky
+261. The Inhabitable Earth by Jason Wells
+262. Childhood Interrupted by Sanjay Gupta
+263. Surely Your Joking Mr. Feynman by Richard Feynman
+264. Think Again by Adam Grant
+265. Principles for Success by Ray Dalio
+266. The Alcoholic Within by Andrew P.
+267. Promised Land by Barak Obama
+268. The Basic Laws of Human Stupidity by Carlo Copolla
+269. Upstream by Dan Heath
+270. The Invention of Sound by Chuck Palahniuk
+271. The Bober Mafia by Malcom Gladwell
+272. Motherless Brooklyn by Jonathan Lethan
+273. The Art of Happiness by The Dalai Lama
+274. How To Avoid the Climate Disaster by Bill Gates
+275. People Who Love to Eat are the Best People by Julia Child 
