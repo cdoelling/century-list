@@ -271,4 +271,26 @@
 272. Motherless Brooklyn by Jonathan Lethan
 273. The Art of Happiness by The Dalai Lama
 274. How To Avoid the Climate Disaster by Bill Gates
-275. People Who Love to Eat are the Best People by Julia Child 
+275. People Who Love to Eat are the Best People by Julia Child
+276. Dune by Frank Herbert
+277. Taste by Stanley Tucci
+278. Four Thousand Weeks by Oliver Burkman
+279. Yearbook by Seth Rogan
+280. Don't Choke by Gary Player
+281. Tough Shit by Kevin Smith
+282. Bubble by Morris
+283. The Secret Life of Groceries by Ben Lorre
+284. Failure is an Option by H Jon Benjamin
+285. The Queens Gambit by Walter Tevis
+286. A Short Account of Mathematics by WW Bell
+287. The Almanac of Naval Ravikank
+288. If You Ask Me by Betty White
+289. Wise as Fuck by Gary Bishop
+290. Influence by Robert Cialdini
+291. Happy Go Lucky by David Sedaris
+292. Project Hail Mary by Andy Weir
+293. I'm Glad My Mom Died by Jeaneete McCurrdy
+294. 100 Ways to Create Wealth by Steve Chandler
+295. Wait by Frank Partnoy
+296. I'd Like to Play Alone Please by David Segura
+297. Scarcity by Sendhil and Eldar
