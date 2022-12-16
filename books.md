@@ -294,3 +294,6 @@
 295. Wait by Frank Partnoy
 296. I'd Like to Play Alone Please by David Segura
 297. Scarcity by Sendhil and Eldar
+298. Everything I Need to Know I Learned From Led Zeppelin by Benjamin Darling
+299. The History of Bourbon by Ken Albala
+300. Bobby Fischer Teaches Chess by Bobby Fischer
