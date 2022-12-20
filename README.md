@@ -101,7 +101,7 @@
 58. Successfully surf a wave
 59. Swim in the Great Barrier Reef  
 60. Visit Easter Island and see what the Heads see  
-61.  
+61. Go back to Perugia Italy
 62.   
 63. Ride a motorcycle on Route 66  
 64. Visit all 50 States + DC [33/50](../master/states.md)
