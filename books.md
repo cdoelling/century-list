@@ -230,72 +230,110 @@
 230. Slaughter House Five by Kurt Vonnegut
 231. The Challenger Sale by Matt Dixon
 232. Anthony Bourdain: The Last Interview by Helen Rosner
-234. Influence and Persuasion by HBR Press
-235. Educated by Tara Westover
-236. Principles by Ray Dalio
-237. On Managing Yourself by HBR Press
-238. Nothing to see here by Kevin Wilson
-239. Empire of the Summer Moon by CS Gwyne
-240. Unfuck Yourself by Gary Bishop
-241. Gary Player's Black Book by Gary Player
-242. Cheaters Always Win by JM Fenster
-243. Butter Elaine Khosrova
-244. Why we Sleep by Matthew Walker
-245. White Fragility by Robin Diangelo
-246. Food Rules by Micheal Pollan
-247. Mindset by Carol Dweck
-248. Salt Fat Acid Heat by Samin Nosorat
-249. Joy of Work by Marie Kondo
-250. Consider This by Chuck Phalanuik
-251. A wealth of pigeons by Steve Martin and Harry Bliss
-252. When you finish saving the world by Jesse Eisenberg
-253. Shape Up by Ryan Singer
-254. 10 Lessons for a Post Pandemic World by Fareed Zakaria
-255. The Compound Effect by Darren Hardy
-256. The Ultimate Zig Ziglar Collection by Zig Ziglar
-257. The Best of Me by David Sedaris
-258. Rental Property Investing byt Brandon Turner
-259. Solutions and other Problems by Allie Brosh
-260. The Messy Middle by Scott Belsky
-261. The Inhabitable Earth by Jason Wells
-262. Childhood Interrupted by Sanjay Gupta
-263. Surely Your Joking Mr. Feynman by Richard Feynman
-264. Think Again by Adam Grant
-265. Principles for Success by Ray Dalio
-266. The Alcoholic Within by Andrew P.
-267. Promised Land by Barak Obama
-268. The Basic Laws of Human Stupidity by Carlo Copolla
-269. Upstream by Dan Heath
-270. The Invention of Sound by Chuck Palahniuk
-271. The Bober Mafia by Malcom Gladwell
-272. Motherless Brooklyn by Jonathan Lethan
-273. The Art of Happiness by The Dalai Lama
-274. How To Avoid the Climate Disaster by Bill Gates
-275. People Who Love to Eat are the Best People by Julia Child
-276. Dune by Frank Herbert
-277. Taste by Stanley Tucci
-278. Four Thousand Weeks by Oliver Burkman
-279. Yearbook by Seth Rogan
-280. Don't Choke by Gary Player
-281. Tough Shit by Kevin Smith
-282. Bubble by Morris
-283. The Secret Life of Groceries by Ben Lorre
-284. Failure is an Option by H Jon Benjamin
-285. The Queens Gambit by Walter Tevis
-286. A Short Account of Mathematics by WW Bell
-287. The Almanac of Naval Ravikank
-288. If You Ask Me by Betty White
-289. Wise as Fuck by Gary Bishop
-290. Influence by Robert Cialdini
-291. Happy Go Lucky by David Sedaris
-292. Project Hail Mary by Andy Weir
-293. I'm Glad My Mom Died by Jeaneete McCurrdy
-294. 100 Ways to Create Wealth by Steve Chandler
-295. Wait by Frank Partnoy
-296. I'd Like to Play Alone Please by David Segura
-297. Scarcity by Sendhil and Eldar
-298. Everything I Need to Know I Learned From Led Zeppelin by Benjamin Darling
-299. The History of Bourbon by Ken Albala
-300. Bobby Fischer Teaches Chess by Bobby Fischer
-301. Tiger and Phil by Bob Harig
-302. How To Focus by Thich Nhat Hanh
+233. Influence and Persuasion by HBR Press
+234. Educated by Tara Westover
+235. Principles by Ray Dalio
+236. On Managing Yourself by HBR Press
+237. Nothing to see here by Kevin Wilson
+238. Empire of the Summer Moon by CS Gwyne
+239. Unfuck Yourself by Gary Bishop
+240. Gary Player's Black Book by Gary Player
+241. Cheaters Always Win by JM Fenster
+242. Butter Elaine Khosrova
+243. Why we Sleep by Matthew Walker
+244. White Fragility by Robin Diangelo
+245. Food Rules by Micheal Pollan
+246. Mindset by Carol Dweck
+247. Salt Fat Acid Heat by Samin Nosorat
+248. Joy of Work by Marie Kondo
+249. Consider This by Chuck Phalanuik
+250. A wealth of pigeons by Steve Martin and Harry Bliss
+251. When you finish saving the world by Jesse Eisenberg
+252. Shape Up by Ryan Singer
+253. 10 Lessons for a Post Pandemic World by Fareed Zakaria
+254. The Compound Effect by Darren Hardy
+255. The Ultimate Zig Ziglar Collection by Zig Ziglar
+256. The Best of Me by David Sedaris
+257. Rental Property Investing byt Brandon Turner
+258. Solutions and other Problems by Allie Brosh
+259. The Messy Middle by Scott Belsky
+260. The Inhabitable Earth by Jason Wells
+261. Childhood Interrupted by Sanjay Gupta
+262. Surely Your Joking Mr. Feynman by Richard Feynman
+263. Think Again by Adam Grant
+264. Principles for Success by Ray Dalio
+265. The Alcoholic Within by Andrew P.
+266. Promised Land by Barak Obama
+267. The Basic Laws of Human Stupidity by Carlo Copolla
+268. Upstream by Dan Heath
+269. The Invention of Sound by Chuck Palahniuk
+270. The Bober Mafia by Malcom Gladwell
+271. Motherless Brooklyn by Jonathan Lethan
+272. The Art of Happiness by The Dalai Lama
+273. How To Avoid the Climate Disaster by Bill Gates
+274. People Who Love to Eat are the Best People by Julia Child
+275. Dune by Frank Herbert
+276. Taste by Stanley Tucci
+277. Four Thousand Weeks by Oliver Burkman
+278. Yearbook by Seth Rogan
+279. Don't Choke by Gary Player
+280. Tough Shit by Kevin Smith
+281. Bubble by Morris
+282. The Secret Life of Groceries by Ben Lorre
+283. Failure is an Option by H Jon Benjamin
+284. The Queens Gambit by Walter Tevis
+285. A Short Account of Mathematics by WW Bell
+286. The Almanac of Naval Ravikank
+287. If You Ask Me by Betty White
+288. Wise as Fuck by Gary Bishop
+289. Influence by Robert Cialdini
+290. Happy Go Lucky by David Sedaris
+291. Project Hail Mary by Andy Weir
+292. I'm Glad My Mom Died by Jeaneete McCurrdy
+293. 100 Ways to Create Wealth by Steve Chandler
+294. Wait by Frank Partnoy
+295. I'd Like to Play Alone Please by David Segura
+296. Scarcity by Sendhil and Eldar
+297. Everything I Need to Know I Learned From Led Zeppelin by Benjamin Darling
+298. The History of Bourbon by Ken Albala
+299. Bobby Fischer Teaches Chess by Bobby Fischer
+300. Tiger and Phil by Bob Harig
+301. How To Focus by Thich Nhat Hanh
+302. On Anger by Seneca
+303. Dirty Jokes Every Man Should Know by Doogie Horner
+304. Blitz Theory by Jonathan Maxwell
+305. Different by Youngme Moon
+306. How to Change Your Mind by Michael Pollen
+307. Good Night Moon by Margaret Brown
+308. Build by Tony Fadell
+309. The Little Book of Main Street Money by Jonathan Clements
+310. Ben Hogan's Five Lessons by Ben Hogan
+311. Start a 501c3 That Won't Ruin Your Life by Audrey Chrisholm
+312. The Little Book of Boards by Erik Hanberg
+313. Trillion Dollar Coach Bill Campbell by Erik Schmidt 
+314. This is how they tell me the world ends by Nicole Perloth
+315. Make Your Bed by Admiral William McRaven
+316. How to be your own therapist by Owen Okane
+317. The book of gold for non-profits by Erik Hanberg
+318. Pimp by Iceberg Slim
+319. Can't Hurt Me by David Goggins
+320. All Quiet on the Western Front by Erich Remarque
+321. Taming the Tiger Within by Thich Nhat Hanh
+322. Napolians Hemmorids and Other Small Events that Changed the World by Phil Mason
+323. The End of the World is Just the Beginning by Peter Zeihan
+324. The Prince by Niccolò Machiavelli
+325. Rituals for Virtual Meetings by Ozenc & Fajardo
+326. Words that Work by Frank Luntz
+327. A Life in Parts by Brian Cranston
+328. The Tao of Chess by Peter Kurzdorfer
+329. How To Say It: Words that Make a Difference by Allison Atchison
+330. Hang the Banner by Joey D
+331. Grinding It Out by Ray Kroc
+332. Noise by Daniel Kahneman
+333. House Plants and Hot Sauce by Sally Nixon
+334. Never Finished by David Goggins
+335. Non-profit Fundrasing Strategies by James Ruell
+336. The Ins and Outs of In and Out by Lynsi Snyder
+337. A Random Walk Down Wallstreet by Burton Malkiel
+338. The Only Grant Writing Book You Need by Ellen Marsh
+339. The New Confessions of an Economic Hitman by John Perkins

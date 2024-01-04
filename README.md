@@ -70,20 +70,20 @@
 
 29. **Meditate for 100 Hours** [Completed]
 
-30. Read a 1000 books [300/1000](../master/books.md)
+30. Read a 1000 books, 20 of them twice [339/1000](../master/books.md) [1/20]
 31. Climb a Colorado 14ner
 32. Build a self operating engine
 33. Take an acting class
 34. Fly an airplane
-35. Learn a computer language
+35. ?Learn a computer language
 36. Drive the Autobahn in Germany
 37. Go camping and sleep outside
 38. Drive a Ferrari
-39. Go Kayaking
+39. ?Go Kayaking
 40. Drive entire length of Colfax Street (Longest in USA)
 41. Walk with an elephant
 42. Have 2 Million Net Worth
-43. Learn a ballroom dance
+43. **Fast for a day** [11/17/2018] No Proof
 44. Read all major religious texts
 45. **Mentor 3 People** [Complete 2020 CU PMP]
 46. Experience Weightlessness
@@ -91,53 +91,53 @@
 48. Donate enough money to put your name on something
 49. Own a Porsche by 40
 50. Travel to 30 Different Countries [22/30](../master/countries.md)
-51. Buy a custom fitted suit
-52. Finish a round with even par
+51. **Fast for a day** [11/17/2018] No Proof
+52. Score even par or better
 53. Run for an elected position
 54. Visit Doelling Graves in Karlsruhe Germany
 55. Sit on a jury  
 56. Sail a boat  
 57. Pass through the Panama Canal  
 58. Successfully surf a wave
-59. Swim in the Great Barrier Reef  
+59. Become a ranked chess player 
 60. Visit Easter Island and see what the Heads see  
 61. Go back to Perugia Italy
 62.   
 63. Ride a motorcycle on Route 66  
 64. Visit all 50 States + DC [33/50](../master/states.md)
 65. Buy a shelter dog a toy before its put down  
-66. Step foot on all 7 Continents (2/7)  
+66. ?Step foot on all 7 Continents (2/7)  
 67. Own a rental property or second home
 68. Debt free by age 50, all assets  
-69. Speak 3 other languages  
-70. Teach a class   
+69. ?Speak 3 other languages  
+70. ?Teach a class   
 71.
-72. Get something published  
+72. Publish a book
 73. Race a car in a competition  
 74. Make a movie  
 75. Live off the grid for a week  
 76. Make my own urn for my death  
-77. Go skydiving  
-78. Ride in a hot air ballon  
-79. Walk on the Great Wall of China  
+77. ?Go skydiving  
+78. ?Ride in a hot air ballon  
+79. ?Walk on the Great Wall of China  
 80. Sell a piece of art I made  
 81. Build something that helps others  
 82. Drink Scotch in Scotland
 83. Make graffiti art in a public space  
-84.   
+84. Swim in the Great Barrier Reef   
 85. Perform stand up comedy  
 86. Become a Chief Marketing Officer  
 87. See a shooting star  
-88. Distill my own spirits  
-89. Build something that outlasts me  
-90. Plant 100 trees  
+88. ?Distill my own spirits  
+89. ?Build something that outlasts me  
+90. ?Plant 100 trees  
 91. **Fast for a day** [11/17/2018] No Proof
 92. Circumnavigate the globe  
-93.
-94. Golf St. Andrews
-95. Golf Pebble Beach
+93. Play 100 different golf courses 
+94. ?Buy a custom fitted suit
+95. ?Learn a ballroom dance
 96. Cook food that I have killed
 97. Go a week without caffeine
 98. Dine at 10 Michelin 3 Star restaurants (1/10)
 99. Take Abigale and Brooks to see the Grand Canyon
-100. Read 20 books twice
+100. 
