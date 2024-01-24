@@ -5,11 +5,15 @@
 
 >Law: Once an item is completed it stays on the list, you can only alternate what is left.  
 
-**Chase Doelling's Century List**
+Need Inspiration? Here is a [growing community list](https://docs.google.com/spreadsheets/d/15Hy-o8N6WC64FllRQTj5DmZRE54snrhYLmfPQ5hlCw4/edit?usp=sharing) from people I've introduced this model to.
 
+>Lastly, weight each goal using the above sheet. When done correctly you realize you can do anything, but not everything. 
+
+**Chase Doelling's Century List**
+---
 ### Currently Completed **32** Items
 #### Need to add **9** items
-
+---
 
 1. **Father a child** [Abigale](../master/Proof/abigale.jpg) 11/4/2015 and Brooks 2/2/21
 
