@@ -337,3 +337,37 @@
 337. A Random Walk Down Wallstreet by Burton Malkiel
 338. The Only Grant Writing Book You Need by Ellen Marsh
 339. The New Confessions of an Economic Hitman by John Perkins
+340. Covert Cows and Chick-fil-a by Steve Robinson
+341. Paige Boy by Elliot Page
+342. Smart Brevity by Jim Vandehie & Mike Allen
+343. Hidden Potential by Adam Grant
+344. How I Play Golf by Tiger Woods
+345. Friends, lovers, and the big terrible thing by Matthew Perry
+346. The Holy Grail of Investing by Tony Robbins
+347. The Remains of the Day by Kazuo Ishiguro
+348. The United States of the Absurdity by Reynolds
+349. Be Useful by Arnold Schwarzenegger
+350. Slow Productivity by Cal Newport
+351. When I Was Your Age by Kenan Thompson
+352. Elon Musk by Walter Issacson
+353. Supercommunicators by Charles Duhigg
+354. It Worked for Me by Colin Powell
+355. Million Dollar Habits by Rachel Rodgers
+356. The Secret History of Food by Matt Siegel
+357. The Coffee Bean by Damon West
+358. The Quran
+359. The Art of the Short Game by Stan Utley
+360. Born toWin Zig Ziglar
+361. Greenlights by Matthew McConaughey
+362. Finna. Poems by Nate Marshall
+363. Ink. The Art of Tattoo by Victionary
+364. Golf Beneath the Surface by Raymond Prior
+365. The Algebra of Wealth by Scott Galloway
+366. The Holy Bible: King James Version
+367. High Output Management by Andy Grove
+368. Million Dollar Action by Rachel Rodgers
+369. The Psycology of Money byt Morgan Housel
+370. The Restarant at the End of the Universe by Douglas Adams
+371. Day Trading Attention by Gary Vanerchuck
+372. Outlive by Peter Attia
+373. The Torah

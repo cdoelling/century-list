@@ -73,7 +73,7 @@ Need Inspiration? Here is a [growing community list](https://docs.google.com/spr
 
 29. **Meditate for 100 Hours** [Completed]
 
-30. Read a 1000 books, 20 of them twice [339/1000](../master/books.md) [1/20]
+30. Read a 1000 books, 20 of them twice [373/1000](../master/books.md) [1/20]
 31. Climb a Colorado 14ner
 32. Build a self operating engine
 33. Take an acting class
@@ -82,7 +82,7 @@ Need Inspiration? Here is a [growing community list](https://docs.google.com/spr
 36. Drive the Autobahn in Germany
 37. Go camping and sleep outside
 38. Drive a Ferrari
-39. ?Go Kayaking
+39. Feed 1 Million People
 40. Drive entire length of Colfax Street (Longest in USA)
 41. Walk with an elephant
 42. Have 2 Million Net Worth
